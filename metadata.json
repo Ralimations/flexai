@@ -1,0 +1,5 @@
+{
+  "name": "FlexAI",
+  "description": "A smart fitness tracker with AI food analysis and social event planning.",
+  "requestFramePermissions": ["camera"]
+}
